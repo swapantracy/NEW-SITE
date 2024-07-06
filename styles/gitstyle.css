@@ -1,0 +1,17 @@
+#popy{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    border: 10px solid goldenrod;
+    border-radius: 8px;
+    box-shadow: 10px;
+
+}
+#crab{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    border: 10px solid goldenrod;
+    border-radius: 8px;
+    box-shadow: 10px;
+}
